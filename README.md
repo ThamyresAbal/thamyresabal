@@ -3,9 +3,6 @@
 <div align="center">
   <a href="https://github.com/ThamyresAbal/"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThamyresAbal&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamyresAbal&layout=compact&langs_count=7&theme=radical"/>
 </div>
                                                                                                                                                   
 #### O que costumo usar:                                                                                                                                  
@@ -36,6 +33,7 @@
 <div> 
   <a href="https://www.behance.net/thamyresabal" ><img src="https://img.shields.io/badge/-Behance-darkblue?style=for-the-badge&logo=behance&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/thamyresabal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="http://lab.cloudpresser.com/thamyresAbal"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
